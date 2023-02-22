@@ -1,0 +1,7 @@
+{
+  "name": "VAS Dashboard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

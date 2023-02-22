@@ -1,0 +1,26 @@
+/* ion-menu-button {
+    position: relative;
+} */
+ion-buttons {
+    height: 43px;
+}
+.ion-page > ion-content > ion-icon {
+    visibility: hidden;
+}
+/* ion-split-pane {
+    left: 200px;
+} */
+
+.leftPane {
+    background: black !important;
+    width: 20vw;
+    height: 100vh;
+    position: absolute;
+}
+
+.simul {
+    left: 20vw;
+    width: 80vw;
+    height: 100vh;
+    position: absolute;
+}

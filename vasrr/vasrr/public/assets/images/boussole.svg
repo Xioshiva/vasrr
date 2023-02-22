@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="153.95mm"
+   height="153.36mm"
+   version="1.1"
+   viewBox="0 0 153.95 153.36"
+   id="svg959"
+   sodipodi:docname="boussole.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata963">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2351"
+     inkscape:window-height="1679"
+     id="namedview961"
+     showgrid="false"
+     inkscape:zoom="1.7390454"
+     inkscape:cx="290.92913"
+     inkscape:cy="287.22655"
+     inkscape:window-x="3648"
+     inkscape:window-y="152"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g957" />
+  <defs
+     id="defs923">
+    <filter
+       id="b"
+       x="-.05591"
+       y="-.061858"
+       width="1.1351"
+       height="1.1495"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         flood-opacity=".49804"
+         result="flood"
+         id="feFlood901" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite903" />
+      <feGaussianBlur
+         in="composite1"
+         result="blur"
+         stdDeviation="0.4"
+         id="feGaussianBlur905" />
+      <feOffset
+         dx="0.4"
+         dy="0.4"
+         result="offset"
+         id="feOffset907" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         result="composite2"
+         id="feComposite909" />
+    </filter>
+    <filter
+       id="a"
+       x="-.1027"
+       y="-.062783"
+       width="1.2482"
+       height="1.1517"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         flood-opacity=".49804"
+         result="flood"
+         id="feFlood912" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite914" />
+      <feGaussianBlur
+         in="composite1"
+         result="blur"
+         stdDeviation="0.4"
+         id="feGaussianBlur916" />
+      <feOffset
+         dx="0.4"
+         dy="0.4"
+         result="offset"
+         id="feOffset918" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         result="composite2"
+         id="feComposite920" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(-27.457 -41.759)"
+     id="g957">
+    <path
+       id="circle925"
+       style="fill:#ffc356;stroke-width:3.77953;stroke-linejoin:round"
+       d="M 293.58203 0 A 288.15495 288.15495 0 0 0 5.5625 288.1543 A 288.15495 288.15495 0 0 0 293.71875 576.31055 A 288.15495 288.15495 0 0 0 581.87305 288.1543 A 288.15495 288.15495 0 0 0 293.71875 0 A 288.15495 288.15495 0 0 0 293.58203 0 z M 290.60352 85.742188 A 204.41575 204.41575 0 0 1 290.69531 85.742188 A 204.41575 204.41575 0 0 1 495.11133 290.1582 A 204.41575 204.41575 0 0 1 290.69531 494.57422 A 204.41575 204.41575 0 0 1 86.279297 290.1582 A 204.41575 204.41575 0 0 1 290.60352 85.742188 z "
+       transform="matrix(0.26458333,0,0,0.26458333,27.457,41.759)" />
+    <g
+       fill="#bb903f"
+       stroke-linejoin="round"
+       stroke-width=".27988"
+       id="g937">
+      <rect
+         x="92.141"
+         y="41.923"
+         width="24.738"
+         height="24.455"
+         id="rect929" />
+      <rect
+         x="156.51"
+         y="106.35"
+         width="24.738"
+         height="24.455"
+         id="rect931" />
+      <rect
+         x="27.457"
+         y="106.31"
+         width="24.738"
+         height="24.455"
+         id="rect933" />
+      <rect
+         x="92.02"
+         y="170.67"
+         width="24.738"
+         height="24.455"
+         id="rect935" />
+    </g>
+    <g
+       fill="#8a692f"
+       font-family="Arial"
+       font-size="25.4px"
+       stroke-width=".26458"
+       id="g955">
+      <text
+         x="94.880684"
+         y="61.60025"
+         filter="url(#b)"
+         style="line-height:1.25"
+         xml:space="preserve"
+         id="text941"><tspan
+           x="94.880684"
+           y="61.60025"
+           fill="#8a692f"
+           font-family="YearlingW00-Reg"
+           font-size="25.4px"
+           stroke-width=".26458"
+           id="tspan939">12</tspan></text>
+      <text
+         x="163.50938"
+         y="126.62782"
+         filter="url(#a)"
+         style="line-height:1.25"
+         xml:space="preserve"
+         id="text945"><tspan
+           x="163.50938"
+           y="126.62782"
+           fill="#8a692f"
+           font-family="YearlingW00-Reg"
+           font-size="25.4px"
+           stroke-width=".26458"
+           id="tspan943">3</tspan></text>
+      <text
+         x="33.143295"
+         y="126.62782"
+         filter="url(#a)"
+         style="line-height:1.25"
+         xml:space="preserve"
+         id="text949"><tspan
+           x="33.143295"
+           y="126.62782"
+           fill="#8a692f"
+           font-family="YearlingW00-Reg"
+           font-size="25.4px"
+           stroke-width=".26458"
+           id="tspan947">9</tspan></text>
+      <text
+         x="98.028343"
+         y="191.17879"
+         filter="url(#a)"
+         style="line-height:1.25"
+         xml:space="preserve"
+         id="text953"><tspan
+           x="98.028343"
+           y="191.17879"
+           fill="#8a692f"
+           font-family="YearlingW00-Reg"
+           font-size="25.4px"
+           stroke-width=".26458"
+           id="tspan951">6</tspan></text>
+    </g>
+  </g>
+</svg>
